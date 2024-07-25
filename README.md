@@ -5,4 +5,4 @@ This the documentation for IoT Data Space. The documentation has been generated 
 
 To compile the documentation from source execute `python3 -m mkdocs build`
 
-To view the generated documentation visit: [https://excid-io.github.io/data-space-docs](https://excid-io.github.io/data-space-docs)
+To view the generated documentation visit: [https://iot-data-space.github.io/docs/](https://iot-data-space.github.io/docs/)
